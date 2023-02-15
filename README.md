@@ -2,12 +2,12 @@
 
 ## REST API Using NodeJs
 
-[Api Doc here using postman](https://github.com/zaychoer/backend-test/nodejs-test.postman_collection.json)
+[Api Doc here using postman](https://github.com/zaychoer/backend-test/blob/main/nodejs-test.postman_collection.json)
 
 ## Quick run
 
 ```bash
-git clone  https://github.com/zaychoer/backend-test.git
+git clone https://github.com/zaychoer/backend-test.git
 cd backend-test/
 cp env-example .env
 
